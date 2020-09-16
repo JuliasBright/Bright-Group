@@ -6,6 +6,7 @@
 
 body {
 	font-family: 'Poppins', sans-serif;
+	overflow: hidden;
 }
 button {
 	font-family: 'Poppins', sans-serif;
@@ -142,6 +143,7 @@ nav {
 	position: absolute;
 	right: 20%;
 }
+
 
 @keyframes drop {
 	0% {
